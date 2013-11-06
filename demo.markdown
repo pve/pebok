@@ -1,7 +1,3 @@
----
-title: This will be used as the title-tag of the page head
----
-
 # Introduction
 
 The Capacity and Performance engineering profession lacks a ‘Performance Engineering Body of Knowledge (PEBoK), even though lots of books are written about the topics.
@@ -18,4 +14,8 @@ Basic concepts: being able to express simple capacity and performance metrics an
 Skills: which are the skills (and some knowledge) that are needed to perform the roles.
 
 Engineering: what are the roles in getting the performance and the capacity matched up.
+
+---
+title: This will be used as the title-tag of the page head
+---
 
