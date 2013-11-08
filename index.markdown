@@ -5,7 +5,9 @@ layout: default
 
 # Introduction
 
-The Capacity and Performance engineering profession lacks a 'Performance Engineering Body of Knowledge (PEBoK)', even though lots of books are written about the topics.
+The Capacity and Performance engineering profession lacks a 'Performance Engineering Body of Knowledge (PEBoK)', 
+even though lots of books are written about the topics.
+CMG plans to change that.
 
 # The Learning Objective
 The overall learning objective is to be able to understand IT system performance in terms of its capacity and cost structure and apply that understanding in the engineering of IT systems that meet desired needs such as performance and cost. 
