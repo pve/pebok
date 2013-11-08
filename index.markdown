@@ -15,8 +15,5 @@ This is a preliminary objective, for further inspiration look at the ABET outcom
 
 # Learning objectives drill down
 + Basic concepts: being able to express simple capacity and performance metrics and ways to measure them, and understand how capacity and system design is related to performance. 
-
 + Skills: which are the skills (and some knowledge) that are needed to perform the roles.
-
 + Engineering: what are the roles in getting the performance and the capacity matched up.
-
