@@ -1,4 +1,4 @@
-﻿---
+---
 title: PEBOK Basis Concepts
 layout: default
 ---
