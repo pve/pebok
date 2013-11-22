@@ -5,7 +5,7 @@ layout: default
 
 # Basic Concepts
 
-Markdown version
+MD version
 
 Here is the first basic concept: Response Time.
 
@@ -31,4 +31,4 @@ Other web pages: http://www.webperformancetoday.com/2012/02/13/non-geeky-guide-t
 Advanced:
 CMG papers: http://www.cmg.org/measureit/issues/mit62/m_62_15.html  (Dr. Neil Gunther)
 
-Note to readers:  are there any concepts here that need further elaboration (i.e. service provider)? Volunteers wanted to find more link worthy pages in sources such as the CMG archives, Wikipedia, and for linking back from Wikipedia to these pages.  Please write to the author:  Dr. Peter HJ van Eijk. 
+Next concept: [Capacity](/2-capacity)
